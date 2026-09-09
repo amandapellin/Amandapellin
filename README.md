@@ -7,20 +7,6 @@
 -  Always expanding my skillset — Currently exploring the intersection of software development and information security through the [Ladies in Cyber](https://womakerscode.org/) program (Cisco Networking Academy + WoMakers Code).
 -  Languages: English (advanced), French (intermediate), Spanish (basic).
   
----
-
-### Experience 💼
-
-**Frontend Development Intern**
-- UI Development with React and TypeScript — reusable components and responsive layouts
-- Server state with TanStack Query and Axios; client state with Jotai
-- Forms and validation: React Hook Form + Zod
-- Data visualization: Highcharts, React Table
-- Design system: Material UI | Routing: React Router | i18n: React-Intl + Date-fns
-
-**Cybersecurity Research Intern (2022–2023)**
-- Researched and studied Threat Intelligence, including monitoring, collection and analysis of cyber threats targeting strategic infrastructures, with introductory exposure to OSINT techniques and network analysis.
-- Authored an unpublished research paper on Threat Intelligence.
 
 ### Tech Stack 🛠️
 
@@ -29,11 +15,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandapellin&layout=compact)
